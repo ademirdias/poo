@@ -1,6 +1,6 @@
-package exe2;
+import exe2.Cliente;
 
-public class TestaCliente {
+public class MainCliente {
     public static void main(String[] args) {
         // Criando o cliente Fulano
         Cliente fulano = new Cliente(12345, 6789, "Fulano", 1000.0f);
